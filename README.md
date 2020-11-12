@@ -14,7 +14,7 @@ Office hours:
 - 27/11 14-16 (BC)
 - 30/11 10-12 (GJ)
 
-Final presentations: Dec. 10th, 2020
+Final presentations: Dec. 10th, 2020 (16h-18h)
 
 ### Material
 
