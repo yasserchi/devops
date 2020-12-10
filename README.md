@@ -15,7 +15,7 @@ Office hours:
 - 30/11 10-12 (GJ)
 
 Final presentations: Dec. 10th, 2020 (16h-18h)
-
+   
 ### Material
 
 The introduction to the course and DevOps can be found [here](https://people.irisa.fr/Benoit.Combemale/course/esir/esir3/). 
